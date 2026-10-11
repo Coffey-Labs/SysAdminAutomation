@@ -107,6 +107,7 @@ shellcheck *.sh
 Keep the existing conventions: `set -euo pipefail`, a root check on anything
 that changes system state, `--dry-run` where it makes sense, and a
 confirmation plus an unattended escape hatch for anything destructive.
+[CONTRIBUTING.md](CONTRIBUTING.md) has the details and how to send a change.
 
 ## License
 
